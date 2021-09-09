@@ -4,25 +4,29 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "isInStock": true
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "isInStock": true
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": "8.99",
+      "isInStock": true
     },
     {
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": "9.11",
+      "isInStock": true
     },
     {
       "id": 5,
@@ -41,6 +45,13 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Friend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6lDEqkHjzkOV6yrTNNnrZEskt2w43kpNt0PTmYru6JCtyryWyjbetSww-Gb6Z5J7lkuPVA0cP&usqp=CAc",
+      "price": "199.99",
+      "id": 8,
+      "isInStock": true
     }
   ]
 }
